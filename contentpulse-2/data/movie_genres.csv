@@ -1,0 +1,16 @@
+genre,competition,monetization,min_budget_cr,min_team,envs,note
+Action,9,9,40,40,Studio / Set;Public place;Outdoor / Nature;Airport,"Big stunts raise cost, but Action fills most of the biggest grossers in every industry"
+Adventure,7,8,40,50,Outdoor / Nature;Studio / Set,Needs location shoots and VFX
+Biopic,6,6,10,30,Studio / Set;Public place;Home,Strong when the real story is already famous
+Comedy,7,7,2,15,Home;Cafe / Restaurant;College campus;Public place;Studio / Set,Cheap to make and works with word of mouth
+Crime,6,7,3,20,Public place;Studio / Set;Railway station;Metro,Real locations keep cost low
+Drama,5,6,0.5,15,Home;Private room;Cafe / Restaurant;College campus,Best for small teams; critics and awards give it reach
+Family/Animation,8,8,15,40,Studio / Set,"Animation studios have the biggest hits globally, but need a larger team"
+Fantasy,6,9,60,80,Studio / Set;Outdoor / Nature,Folk and myth stories have done very well in South cinema
+Historical,5,8,80,100,Studio / Set;Outdoor / Nature,Costly sets and costumes
+Horror,8,9,1,12,Home;Private room;Studio / Set;Outdoor / Nature,Horror-comedy has been Bollywood's most reliable genre recently
+Musical,5,6,20,40,Studio / Set;Public place,"Strong music helps, but fewer titles than other genres"
+Romance,6,7,2,15,Cafe / Restaurant;Outdoor / Nature;College campus;Public place;Metro,Romance plus strong music can break out (Saiyaara)
+Sci-Fi,7,8,70,80,Studio / Set,"VFX heavy, strong global audience"
+Spy Thriller,8,8,80,60,Airport;Public place;Studio / Set;Railway station,Top Bollywood grosser of 2026 is a spy thriller
+Thriller,7,8,1.5,15,Home;Public place;Railway station;Studio / Set,Good story beats big budgets here
